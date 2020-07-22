@@ -1,0 +1,4 @@
+procedure hola is
+	c:String:="Hola";
+	count:Integer:=8;
+end hola;

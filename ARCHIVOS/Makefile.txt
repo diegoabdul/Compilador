@@ -1,0 +1,3 @@
+bison archivo_bison.y -d
+flex -o archivo.lex.c archivo_flex.flex
+gcc -o analiza diccionario.c archivo_bison.tab.c archivo.lex.c

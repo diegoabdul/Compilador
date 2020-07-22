@@ -1,0 +1,22 @@
+.data
+    mensaje1: .asciiz "Iguales"
+    mensaje2: .asciiz "No Iguales"
+.text
+    main:
+        addi $t0,$zero, 4
+        addi $t1,$zero, 
+
+        beq $t0, $t1, numerosIguales
+        bne $t0, $t1, numerosNoIguales
+
+        li, $v0, 10
+        syscall
+
+    numerosIguales:
+        li $v0, 4
+        la, $a0, mensaje1
+        syscall
+    numerosNoIguales:
+        li $v0, 4
+        la, $a0, mensaje2
+        syscall

@@ -1,0 +1,21 @@
+procedure hola is
+	a:Integer:=8;
+	b:=10-9;
+	c:Natural:=3.4;
+	d:Natural:="Hola";
+	diego:=9*11;
+	p:=a+3;
+	if(5==5) prueba:=5*5; end
+	Text_IO.Put_Line(a);
+	Text_IO.Put_Line(b);
+	Text_IO.Put_Line(c);
+	Text_IO.Put_Line(d);
+	Text_IO.Put_Line(diego);
+	Text_IO.Put_Line(pD);
+	if(5>2) prueba:=2*5; else madrid:=1+1; end
+	if(5<2) prueba:=2*5; else madrid:=1+1; end
+	for 1 in 5 loop
+	Text_IO.Put_Line(b);
+	end loop;
+
+end hola;

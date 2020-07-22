@@ -1,0 +1,15 @@
+.data
+	a: .word 18
+	c: .word 7
+
+.text
+	lw $t0, c($zero)
+	lw $t1, a($zero)
+	add $t2, $t0, $t1
+
+.data 
+	d: .word 4
+	
+.text	
+	lw $t3, d($zero)
+	add $t5, $t2, $t3

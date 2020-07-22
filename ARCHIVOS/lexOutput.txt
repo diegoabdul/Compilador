@@ -1,0 +1,100 @@
+TOKEN                                             LEXEMA                        LINEA          
+TOKEN_PROCEDURE                                   procedure                     1              
+VARIABLE_TOKEN                                    hola                          1              
+IS_TOKEN                                          is                            1              
+VARIABLE_TOKEN                                    a                             2              
+DOSPUNTOS_TOKEN                                   :                             2              
+TYPE_INT                                          Integer                       2              
+DOSPUNTOS_TOKEN                                   :                             2              
+TOKEN_PIGUAL                                      =                             2              
+INTEGER_TOKEN                                     0                             2              
+TOKEN_PCOMA                                       ;                             2              
+Valor de la V_CHAR 0
+VARIABLE_TOKEN                                    b                             3              
+DOSPUNTOS_TOKEN                                   :                             3              
+TYPE_INT                                          Integer                       3              
+DOSPUNTOS_TOKEN                                   :                             3              
+TOKEN_PIGUAL                                      =                             3              
+INTEGER_TOKEN                                     5                             3              
+TOKEN_PCOMA                                       ;                             3              
+Valor de la V_CHAR 5
+TYPE_FOR                                          for                           4              
+VARIABLE_TOKEN                                    a                             4              
+TOKEN_IN                                          in                            4              
+VARIABLE_TOKEN                                    b                             4              
+TOKEN_LOOP                                        loop                          4              
+VARIABLE_TOKEN                                    prueba                        5              
+DOSPUNTOS_TOKEN                                   :                             5              
+TOKEN_PIGUAL                                      =                             5              
+INTEGER_TOKEN                                     5                             5              
+Token MULTIPLICACION                              *                             5              
+INTEGER_TOKEN                                     5                             5              
+TOKEN_PCOMA                                       ;                             5              
+TOKEN_END                                         end                           6              
+TOKEN_LOOP                                        loop                          6              
+TOKEN_PCOMA                                       ;                             6              
+VARIABLE_TOKEN                                    diego                         7              
+DOSPUNTOS_TOKEN                                   :                             7              
+TOKEN_PIGUAL                                      =                             7              
+INTEGER_TOKEN                                     20                            7              
+ADD_TOKEN                                         +                             7              
+INTEGER_TOKEN                                     25                            7              
+TOKEN_PCOMA                                       ;                             7              
+VARIABLE_TOKEN                                    diego2                        8              
+DOSPUNTOS_TOKEN                                   :                             8              
+TOKEN_PIGUAL                                      =                             8              
+INTEGER_TOKEN                                     20                            8              
+Token MULTIPLICACION                              *                             8              
+INTEGER_TOKEN                                     25                            8              
+TOKEN_PCOMA                                       ;                             8              
+VARIABLE_TOKEN                                    diego3                        9              
+DOSPUNTOS_TOKEN                                   :                             9              
+TOKEN_PIGUAL                                      =                             9              
+INTEGER_TOKEN                                     20                            9              
+ADD_TOKEN                                         -                             9              
+INTEGER_TOKEN                                     25                            9              
+TOKEN_PCOMA                                       ;                             9              
+VARIABLE_TOKEN                                    diego4                        10             
+DOSPUNTOS_TOKEN                                   :                             10             
+TOKEN_PIGUAL                                      =                             10             
+INTEGER_TOKEN                                     20                            10             
+Token DIVISION                                    /                             10             
+INTEGER_TOKEN                                     25                            10             
+TOKEN_PCOMA                                       ;                             10             
+VARIABLE_TOKEN                                    adri                          11             
+DOSPUNTOS_TOKEN                                   :                             11             
+TOKEN_PIGUAL                                      =                             11             
+VARIABLE_TOKEN                                    a                             11             
+ADD_TOKEN                                         +                             11             
+VARIABLE_TOKEN                                    b                             11             
+TOKEN_PCOMA                                       ;                             11             
+TYPE_IF                                           if                            12             
+Token DELIMITADOR                                 (                             12             
+INTEGER_TOKEN                                     5                             12             
+RELATIONAL_TOKEN                                  <                             12             
+INTEGER_TOKEN                                     2                             12             
+Token DELIMITADOR                                 )                             12             
+VARIABLE_TOKEN                                    prueba                        13             
+DOSPUNTOS_TOKEN                                   :                             13             
+TOKEN_PIGUAL                                      =                             13             
+INTEGER_TOKEN                                     2                             13             
+Token MULTIPLICACION                              *                             13             
+INTEGER_TOKEN                                     5                             13             
+TOKEN_PCOMA                                       ;                             13             
+TOKEN_ELSE                                        else                          14             
+VARIABLE_TOKEN                                    madrid                        15             
+DOSPUNTOS_TOKEN                                   :                             15             
+TOKEN_PIGUAL                                      =                             15             
+INTEGER_TOKEN                                     1                             15             
+ADD_TOKEN                                         +                             15             
+INTEGER_TOKEN                                     1                             15             
+TOKEN_PCOMA                                       ;                             15             
+TOKEN_END                                         end                           16             
+TOKEN_END                                         end                           17             
+VARIABLE_TOKEN                                    hola                          17             
+TOKEN_PCOMA                                       ;                             17             
+Terminada la compilación!!
+------------------------
+Fin del fichero.
+Nº total de líneas: 17
+Nº errores: 0

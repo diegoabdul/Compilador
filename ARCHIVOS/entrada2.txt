@@ -1,0 +1,17 @@
+procedure hola is
+	a:Integer:=0;
+	b:Integer:=5;
+	for a in b loop
+	prueba:=5*5; 
+	end loop;
+	diego:=20+25;
+	diego2:=20*25;
+	diego3:=20-25;
+	diego4:=20/25;
+	adri:=a+b;
+	if(5<2) 
+		prueba:=2*5; 
+	else 
+		madrid:=1+1; 
+	end
+end hola;
